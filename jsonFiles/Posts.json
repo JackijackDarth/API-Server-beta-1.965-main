@@ -1,0 +1,90 @@
+[
+    {
+        "Id": 1,
+        "Creation": "1700000000000",
+        "Title": "Les bases de l'intelligence artificielle",
+        "Category": "Technologie",
+        "Image": "b441b510-a634-11ef-8e26-076b1657a8bb.jpeg",
+        "Text": "Une introduction complète aux fondements de l'intelligence artificielle, couvrant les concepts clés tels que l'apprentissage supervisé, l'apprentissage non supervisé et l'apprentissage par renforcement. Découvrez également l'impact de ces technologies sur des secteurs variés comme la santé, la finance et la logistique, ainsi que les enjeux éthiques qu'elles posent."
+      },
+      {
+        "Id": 2,
+        "Creation": "1701000000000",
+        "Title": "La révolution des énergies renouvelables",
+        "Category": "Environnement",
+        "Image": "68ad1ae0-a634-11ef-8da8-95e24513b24c.jpeg",
+        "Text": "Un examen approfondi des innovations les plus récentes dans le domaine des énergies renouvelables, telles que l'énergie solaire, éolienne et hydrogène. Explorez comment ces technologies transforment le paysage énergétique mondial et aident à répondre aux défis du changement climatique."
+      },
+      {
+        "Id": 3,
+        "Creation": "1702000000000",
+        "Title": "Cryptomonnaies et blockchain : une nouvelle ère",
+        "Category": "Finance",
+        "Image": "561a5050-a634-11ef-8da8-95e24513b24c.webp",
+        "Text": "Plongez dans l'univers des cryptomonnaies et de la blockchain, ces technologies qui redéfinissent l'économie mondiale. Apprenez comment elles fonctionnent, leurs implications pour les marchés financiers, et les débats autour de la réglementation et de la durabilité énergétique."
+      },
+      {
+        "Id": 4,
+        "Creation": "1703000000000",
+        "Title": "L'impact du télétravail sur les entreprises",
+        "Category": "Société",
+        "Image": "48f80a20-a634-11ef-8da8-95e24513b24c.jpeg",
+        "Text": "Une analyse détaillée des effets du télétravail sur les entreprises et leurs employés. Découvrez comment cette tendance redéfinit les modes de collaboration, l'équilibre travail-vie privée et les pratiques de gestion, tout en posant de nouveaux défis organisationnels."
+      },
+      {
+        "Id": 5,
+        "Creation": "1704000000000",
+        "Title": "Le futur des smartphones pliables",
+        "Category": "Technologie",
+        "Image": "3cab3c60-a634-11ef-8da8-95e24513b24c.jpeg",
+        "Text": "Avec l'évolution rapide des technologies d'écran, les smartphones pliables deviennent une réalité. Cet article explore les dernières innovations dans ce domaine et analyse leur potentiel à transformer le marché des appareils mobiles, tout en répondant aux défis techniques et ergonomiques."
+      },
+      {
+        "Id": 6,
+        "Creation": "1705000000000",
+        "Title": "L'évolution de la médecine personnalisée",
+        "Category": "Santé",
+        "Image": "1c2fce60-a634-11ef-8da8-95e24513b24c.png",
+        "Text": "La médecine personnalisée ouvre de nouvelles perspectives en adaptant les traitements aux caractéristiques génétiques des patients. Cet article examine les avancées scientifiques et technologiques qui rendent cette approche possible, ainsi que ses implications éthiques et économiques."
+      },
+      {
+        "Id": 7,
+        "Creation": "1706000000000",
+        "Title": "Les défis de la cybersécurité dans le cloud",
+        "Category": "Sécurité",
+        "Image": "0c5ebbe0-a634-11ef-8da8-95e24513b24c.jpeg",
+        "Text": "L'adoption croissante du cloud computing entraîne de nouveaux défis en matière de cybersécurité. Cet article explore les vulnérabilités spécifiques à ces environnements et présente des stratégies pour protéger les données et les applications critiques des entreprises."
+      },
+      {
+        "Id": 8,
+        "Creation": "1707000000000",
+        "Title": "L'intelligence artificielle dans l'art",
+        "Category": "Culture",
+        "Image": "00139bd0-a634-11ef-8da8-95e24513b24c.png",
+        "Text": "L'IA révolutionne le monde de l'art en permettant des créations inédites, tout en suscitant des débats sur l'authenticité et la place de l'humain dans le processus créatif. Découvrez des exemples concrets de collaboration entre artistes et machines."
+      },
+      {
+        "Id": 9,
+        "Creation": "1708000000000",
+        "Title": "La réalité augmentée dans le commerce de détail",
+        "Category": "Technologie",
+        "Image": "efb45310-a633-11ef-8da8-95e24513b24c.webp",
+        "Text": "Les technologies de réalité augmentée transforment l'expérience d'achat en permettant des essais virtuels de produits et en enrichissant les interactions en magasin. Cet article explore les tendances actuelles et leur impact sur les consommateurs et les détaillants."
+      },
+      {
+        "Id": 10,
+        "Creation": "1709000000000",
+        "Title": "Les progrès de l'édition génétique",
+        "Category": "Santé",
+        "Image": "dbf84ac0-a633-11ef-8da8-95e24513b24c.jpeg",
+        "Text": "L'édition génétique, notamment grâce à la technologie CRISPR-Cas9, ouvre des possibilités fascinantes pour la médecine et l'agriculture. Cet article examine les derniers progrès scientifiques et les questions éthiques qu'ils soulèvent."
+      },
+  {
+    "Id": 16,
+    "Creation": "1731993410832",
+    "Title": "Intelligence artificielle: un robot conversationnel inspiré de l’univers de «Game of Thrones» pousse un ado au suicide",
+    "Category": "Technologie",
+    "Image": "c271f360-a635-11ef-8e26-076b1657a8bb.webp",
+    "Text": " L’adolescent et le personnage virtuel nommé Daenerys Targaryen s’échangeaient des messages de nature romantique et sexuelle. Le jeune homme de 14 ans serait carrément devenu dépendant de cette relation qui a débuté en avril 2023 et a pris fin le 28 février 2024, lorsque le jeune Sewell s’est enlevé la vie.\r\n\r\nSelon la mère de celui-ci, l’intelligence artificielle aurait encouragé des idéations suicidaires chez l’adolescent, en plus d’entretenir «des conversations fortement sexualisées qui auraient été considérées comme abusives si elles avaient été alimentées par un adulte humain.»"
+  }
+]
